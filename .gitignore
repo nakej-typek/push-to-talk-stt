@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# secrets
+.api_key
+*.env
+
+# runtime
+*.log
+*.err
